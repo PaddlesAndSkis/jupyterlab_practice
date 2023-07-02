@@ -1,0 +1,7 @@
+name: camenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+prefix: C:\Users\camer\anaconda3\envs\camenv
